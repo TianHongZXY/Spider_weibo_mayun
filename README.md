@@ -1,1 +1,2 @@
-# Spider_weibo_mayun
+# 爬取马云所有微博
+ 用ajax
